@@ -10,7 +10,7 @@
     min-height: 400px;
 }
 .footer {
-    background-color: #D1E8E2;
+    background-color: #ADADAD;
     margin: 0px auto;
     padding: 20px 0px;
 }
@@ -18,7 +18,7 @@
 .jumbotron {
     padding: 70px 30px;
     margin: 0px auto;
-    background-color: #116466;
+    background-color: #501B1D;
     color: floralwhite;
 }
 
@@ -33,9 +33,24 @@ body{
 }
 
 .navbar-dark {
-    background-color: #2C3531;
+    /* background-color: #2C3531; */
+    background-color: #2E1114;
 }
 
+.btn-1{
+    background-color: #64485C;
+}
 
+.btn-2{
+    background-color: #ADADAD;
+}
+
+.btn-3{
+    background-color: #83677B;
+}
+ .color{
+     /* color:#64485C ; */
+     color: #501B1D ;
+ }
 
 /* https://visme.co/blog/website-color-schemes/ */
