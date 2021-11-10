@@ -52,5 +52,10 @@ body{
      /* color:#64485C ; */
      color: #501B1D ;
  }
-
+ .tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
 /* https://visme.co/blog/website-color-schemes/ */
