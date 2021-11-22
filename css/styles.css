@@ -33,7 +33,6 @@ body{
 }
 
 .navbar-dark {
-    /* background-color: #2C3531; */
     background-color: #2E1114;
 }
 
@@ -58,4 +57,21 @@ body{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+
+.carousel {
+    background:#2E1114;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+
 /* https://visme.co/blog/website-color-schemes/ */
